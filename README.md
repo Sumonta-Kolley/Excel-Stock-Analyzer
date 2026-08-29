@@ -1,2 +1,1 @@
-# Excel-Stock-Analyzer
-Stock Market Portfolio Tracker and Return Analyzer
+#Stock Market Portfolio Tracker and Return Analyzer
