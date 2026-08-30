@@ -43,7 +43,8 @@ Based on the portfolio evaluation of **106 equity holdings**, here is the high-l
 
 The project follows a structured 6-tier data pipeline from raw market ingestion to executive reporting:
 
-![Workflow and Navigation Hub](images/navigation_hub.png)
+<img width="852" height="718" alt="navigation_hub png" src="https://github.com/user-attachments/assets/90bac516-3120-4183-8511-86f0d45430e7" />
+
 *Figure 2: Data Workflow Architecture and Central Navigation Hub.*
 
 $$\text{Raw Market Data} \longrightarrow \text{Data Cleaning} \longrightarrow \text{Transaction Log} \longrightarrow \text{Portfolio Tracking} \longrightarrow \text{KPI Engine} \longrightarrow \text{Executive Dashboard}$$
@@ -67,7 +68,8 @@ $$\text{Raw Market Data} \longrightarrow \text{Data Cleaning} \longrightarrow \t
 ## 📊 Visual Analytics & Core Insights
 
 ### 1. Profit & Loss (P&L) Distribution
-![P&L Distribution](images/pnl_distribution.png)
+<img width="410" height="274" alt="pnl_distribution png" src="https://github.com/user-attachments/assets/54467c62-c101-4ce4-ad36-f53a7e50190d" />
+
 * **94% Profitable Positions** vs **6% Loss-Making Positions**, demonstrating a robust stock selection strategy and risk management profile.
 
 ### 2. Capital Invested vs Current Market Value
