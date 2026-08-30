@@ -76,7 +76,8 @@ $$\text{Raw Market Data} \longrightarrow \text{Data Cleaning} \longrightarrow \t
 * Visual comparison tracking invested capital against current market value across all 106 individual assets, highlighting massive alpha generation in top performers (`TATAELXSI`, `ADANIGREEN`, `TITAN`, `KPITTECH`).
 
 ### 3. KPI Metrics Summary
-![KPI Metrics](images/kpi_metrics.png)
+<img width="555" height="746" alt="Screenshot 2026-08-30 215553" src="https://github.com/user-attachments/assets/fadbc460-1f73-4244-927f-6f389cedd9af" />
+
 * Structured tabular breakdown of core portfolio health parameters used for executive decision-making.
 
 ---
