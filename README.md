@@ -14,7 +14,8 @@ The **Stock Market Analytics & Portfolio Dashboard** is an end-to-end investment
 
 ## 🖼️ Dashboard Preview
 
-![Executive Dashboard](images/dashboard_overview.png)
+<img width="1503" height="750" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/6d4dabdb-3daa-4d7f-88cb-fd0c8b49c392" />
+
 *Figure 1: Executive Portfolio Analytics Dashboard featuring dynamic charts, KPIs, and allocation visuals.*
 
 ---
