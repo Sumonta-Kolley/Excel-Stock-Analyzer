@@ -2,7 +2,7 @@
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 [![Financial Analytics](https://img.shields.io/badge/Analytics-Portfolio_Management-blue?style=for-the-badge)](https://github.com)
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com)
 
 ---
 
